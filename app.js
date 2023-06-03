@@ -11,9 +11,9 @@ function toggle() {
 
 
 var images = [];
-images[0]="/images/magasin.jpg";
-images[1]="/images/vitrine1.jpg";
-images[2]="/images/vitrine2.jpg";
+images[0]="images/magasin.jpg";
+images[1]="images/vitrine1.jpg";
+images[2]="images/vitrine2.jpg";
 
 var i = 0;
 var timer = 3000;
